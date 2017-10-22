@@ -1,0 +1,25 @@
+{
+  "config": {
+    "optimize-autoloader": true
+  },
+  "autoload": {
+    "psr-4": {
+      "xerotic\\": "bin/",
+      "xlibs\\": "libs/",
+      "xcontrollers\\": "controllers/",
+      "xmodels\\": "models/"
+    },
+    "classmap": [
+      "bin/",
+      "libs/",
+      "controllers/",
+      "models/"
+    ]
+  },
+    "require": {
+        "jenssegers/blade": "^1.1",
+        "illuminate/database": "^5.5",
+        "robmorgan/phinx": "^0.9.1",
+        "illuminate/validation" : "^5.5"
+    }
+}
