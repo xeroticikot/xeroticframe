@@ -3,7 +3,7 @@
   "description": "A lightweight PHP 7.0 framework",
   "keywords": ["framework", "xerotic"],
   "license": "GPL-3.0",
-  "type": "project"
+  "type": "project",
   "config": {
     "optimize-autoloader": true
   },
