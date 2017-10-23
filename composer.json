@@ -1,14 +1,12 @@
 {
   "name": "xeroticikot/xeroticframe",
   "description": "A lightweight PHP 7.0 framework",
-  "version": "1.0.0-dev",
   "authors": [
       {
           "name": "Mahmud Abdur Rahman",
           "email": "clanlord.ikot@gmail.com"
       }
   ],
-  "minimum-stability": "dev",
   "keywords": ["framework", "xerotic"],
   "license": "GPL-3.0",
   "type": "project",
