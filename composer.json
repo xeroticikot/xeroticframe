@@ -1,6 +1,6 @@
 {
-  "name": "xeroticikot/xeroticframe"
-  "description": "A lightweight PHP 7.0 framework"
+  "name": "xeroticikot/xeroticframe",
+  "description": "A lightweight PHP 7.0 framework",
   "config": {
     "optimize-autoloader": true
   },
